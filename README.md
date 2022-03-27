@@ -1,0 +1,1 @@
+Docker syntax explanation
